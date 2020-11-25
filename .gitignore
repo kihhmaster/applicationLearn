@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/vscode
+
 
 # testing
 /coverage
@@ -11,6 +11,8 @@
 /build
 
 # misc
+.vscode
+.gitignore
 .DS_Store
 .env.local
 .env.development.local
